@@ -5,14 +5,14 @@
         "lokasiLoker": "Malang",
         "description": "Inventron Malang merupakan pusat dari inventron dan warehouse pertama inventron berada, warehouse ini menyediakan berbagai macam ukuran loker mulai dari loker kecil, loker sedang, dan loker besar tersedia di warehouse ini.",
         "alamat": " Jl Messi No 30, Batu , Malang Jawa Timur",
-        "image": "https://www.atria.co.id/wp-content/uploads/2022/08/Sterling-metal-loker-12-pintu-1-1.jpg"
+        "image": "https://res.cloudinary.com/ruparupa-com/image/upload/h_1000,w_1000,f_auto/f_auto,q_auto:eco/v1477149577/KW1700203_1.jpg"
       },
       {
         "id": 2,
         "lokasiLoker": "Semarang",
         "description": "Inventron Semarang merupakan pusat dari inventron dan warehouse pertama inventron berada, warehouse ini menyediakan berbagai macam ukuran loker mulai dari loker kecil, loker sedang, dan loker besar tersedia di warehouse ini.",
         "alamat": " Jl Ronaldo No 7, Ungaran, Semarang Jawa Tengah ",
-        "image": "https://www.atria.co.id/wp-content/uploads/2022/08/Sterling-metal-loker-12-pintu-1-1.jpg"
+        "image": "https://spakat.id/wp-content/uploads/2019/01/DATAFILE-Loker-12-Pintu-Gandeng-Standard-DL-G43.jpg"
       },   {
         "id": 3,
         "lokasiLoker": "Surabaya",
@@ -31,7 +31,7 @@
         "lokasiLoker": "Bandung",
         "description": "Inventron Bandung merupakan pusat dari inventron dan warehouse pertama inventron berada, warehouse ini menyediakan berbagai macam ukuran loker mulai dari loker kecil, loker sedang, dan loker besar tersedia di warehouse ini.",
         "alamat": " Jl Seko No 22, Cicaheum , Bandung Jawa Barat ",
-        "image": "https://www.atria.co.id/wp-content/uploads/2022/08/Sterling-metal-loker-12-pintu-1-1.jpg"
+        "image": "https://ofigen.com/wp-content/uploads/2021/12/170312CH8-lado-derecho-600x600.jpg"
       }
     ]
 }
